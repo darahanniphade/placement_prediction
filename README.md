@@ -43,7 +43,7 @@ The dataset was preprocessed to:
 
 ---
 
-## 📊 Results
+##  Results
 - Logistic Regression successfully classified the data with satisfactory performance.
 - The model demonstrated strengths in:
   - Simplicity and interpretability.
